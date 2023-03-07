@@ -1,3 +1,4 @@
+![logo](img/alt%20copy%400.5x.png)
 # Certification Materials
 A collection of materials related to my certification articles
 
