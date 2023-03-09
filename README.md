@@ -36,7 +36,7 @@ Please follow me on [Twitter](https://twitter.com/JorgeBernhardt) and [LinkedIn]
 
 | Certification | Link |
 |--|--|
-|SC-900: Microsoft Security, Compliance, and Identity Fundamentals|[Info](https://www.jorgebernhardt.com/sc-900/) <br >[Part 1](https://www.jorgebernhardt.com/sc-900-study-notes/) , [Part 2](https://www.jorgebernhardt.com/sc-900-study-notes-2/) , [Part 3](https://www.jorgebernhardt.com/sc-900-study-notes-3/) , [Part 4](https://www.jorgebernhardt.com/sc-900-study-notes-4/)|
+|SC-900: Microsoft Security, Compliance, and Identity Fundamentals|[Info](https://www.jorgebernhardt.com/sc-900/) , [Part 1](https://www.jorgebernhardt.com/sc-900-study-notes/) , [Part 2](https://www.jorgebernhardt.com/sc-900-study-notes-2/) , [Part 3](https://www.jorgebernhardt.com/sc-900-study-notes-3/) , [Part 4](https://www.jorgebernhardt.com/sc-900-study-notes-4/)|
 |SC-300: Microsoft Identity and Access Administrator |[Info](https://www.jorgebernhardt.com/exam-sc-300/) , [Part 1](https://www.jorgebernhardt.com/sc-300-study-notes-part-1/) , [Part 2](https://www.jorgebernhardt.com/sc-300-study-notes-part-2/) , [Part 3](https://www.jorgebernhardt.com/sc-300-study-notes-part-3/) , [Part 4](https://www.jorgebernhardt.com/sc-300-study-notes-part-4/) |
 |SC-400: Microsoft Information Protection Administrator| [Info](https://www.jorgebernhardt.com/exam-sc-400/)|
 |AZ-500: Microsoft Azure Security Technologies|[Info](https://www.jorgebernhardt.com/az-500/)|
