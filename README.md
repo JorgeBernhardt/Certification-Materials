@@ -1,4 +1,4 @@
-![logo](img/alt%20copy.png)
+![logo](img/logo.png)
 # Certification Materials
 A collection of materials related to my certification articles
 
